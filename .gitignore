@@ -1,6 +1,8 @@
 dist
 node_modules
 coverage
+/.expressvue
+*.sqlite
 
 # IDE
 /.idea
@@ -10,7 +12,6 @@ coverage
 
 # Temp files
 .npm
-.env
 .cache
 
 # Package managers

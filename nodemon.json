@@ -7,10 +7,13 @@
       "**/*.test.ts"
     ],
     "verbose": true,
-    "exec": "ts-node ./src/index.ts",
+    "exec": "ts-node ./src/bootstrap.ts",
     "ext": "ts",
     "watch": [
-      "src/**/*.ts"
+      "src/**/*.ts",
+      "src/**/*.html",
+      "src/**/*.vue",
+      ".env"
     ],
     "env": {
       "NODE_ENV": "development"

@@ -15,7 +15,9 @@ module.exports = {
     'prettier',
     'prettier/@typescript-eslint',
   ],
-  plugins: ['@typescript-eslint'],
+  plugins: [
+    '@typescript-eslint'
+  ],
   //plugins: ['@typescript-eslint/eslint-plugin'],
   // add your custom rules here
   rules: {

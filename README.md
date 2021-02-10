@@ -1,10 +1,13 @@
 # Express TS
-Starter template for server applications with express js framework and typescript support
+Template for websites with express js framework and typescript support
 
 ## Features
 - [Eslint](https://github.com/eslint/eslint)
 - [Prettier](https://github.com/prettier/prettier)
 - [Jest](https://github.com/facebook/jest)
+- [Inversify](https://github.com/inversify/InversifyJS)
+- [Express Vue](https://github.com/express-vue/express-vue)
+- [Type ORM](https://github.com/typeorm/typeorm)
 
 
 ## Scripts
